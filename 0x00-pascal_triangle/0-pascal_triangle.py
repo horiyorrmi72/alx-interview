@@ -9,6 +9,8 @@ def pascal_triangle(n):
     Returns:
         int: int using a nCk (n Combination k) formulae
     """
+
+def pascal_triangle(n):
     triangle=[]
 
     for rows in range(n):
